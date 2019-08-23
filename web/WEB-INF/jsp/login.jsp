@@ -19,7 +19,7 @@
 <link href="resources/css/pro.css" rel="stylesheet">
 <link href="resources/css/login.css" rel="stylesheet">
 <script src="resources/js/jquery.min.js" type="text/javascript"/>
-<script src="resources/js/layui.js" type="text/javascript"/>
+<script src="resources/js/layui.js" type="text/javascript"></script>
 <style type="text/css">
 </style>
 </head>
